@@ -1,0 +1,2 @@
+// if capacity of a stack is 5 and we try to put 6th element in the stack, we hit the overflow condition.
+// when there is no element in the stack and we try to pop the stack, we hit the underflow condition.
